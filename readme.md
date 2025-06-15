@@ -5,7 +5,7 @@ Bu çalışma, şifrelenmiş ağ trafiğinin VPN olup olmadığını, VPN ise ha
 ## 🎯 Proje Amacı
 - Şifreli trafiğin VPN taşıyıp taşımadığını tespit etmek
 - VPN trafiğinin hangi protokole (OpenVPN, SSTP, L2TP/IPSec vb.) ait olduğunu belirlemek
-- VPN trafiğinin taşıdığı uygulama türünü (streaming, VoIP, e-posta, SSH vb.) tahmin etmek
+- VPN trafiğinin taşıdığı uygulama türünü (streaming, meet, mail, ssh, non_streaming) tahmin etmek
 
 ## 📊 Kullanılan Yöntemler
 - Veri analizi ve görselleştirme (matplotlib, seaborn, pandas)
