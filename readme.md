@@ -24,12 +24,6 @@ Bu çalışma, şifrelenmiş ağ trafiğinin VPN olup olmadığını, VPN ise ha
 - Grafikler hem tüm veri setiyle hem de dengelenmiş örneklerle oluşturulmuştur
 - Proje akademik amaçlıdır, veri anonimleştirilmiştir
 
-## 📁 Dosya Yapısı
-- `vpn_analiz.ipynb` → Google Colab üzerinden geliştirdiğim ana analiz dosyası
-- `grafikler/` → Grafik görsellerinin bulunduğu klasör
-- `veri/` → Ham veya işlenmiş veri dosyaları (yüksek boyutlu olmadıkça)
-- `README.md` → Bu dosya
-
 ## 🧑‍💻 Geliştiren
 **Umut Kocaoğlu – 201118058**  
 Danışman: Dr. Öğr. Üyesi Özgür Tonkal  
